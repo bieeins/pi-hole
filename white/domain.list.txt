@@ -7,10 +7,10 @@ app-measurement.com
 clientperipherals.dell.com
 collector.github.com
 crashlogs.whatsapp.net
-cv.shopee.co.id
+#cv.shopee.co.id
 deo.shopeemobile.com
 edge-chat.facebook.com
-equinusocio.gallerycdn.vsassets.io
+#equinusocio.gallerycdn.vsassets.io
 facebook.com
 find.api.micloud.xiaomi.net
 firebase-settings.crashlytics.com
@@ -26,12 +26,12 @@ logfiles.zoom.us
 media.fcgk16-1.fna.whatsapp.net
 mgs-gw.m.dana.id
 mmg.whatsapp.net
-mobile.events.data.microsoft.com
-ms-vscode-remote.gallerycdn.vsassets.io
+#mobile.events.data.microsoft.com
+#ms-vscode-remote.gallerycdn.vsassets.io
 o468184.ingest.sentry.io
 p16-sign-va.tiktokcdn.com
 pixeldrain.com
-pkief.gallerycdn.vsassets.io
+#pkief.gallerycdn.vsassets.io
 pps.whatsapp.net
 sdkconfig.ad.intl.xiaomi.com
 seputarriau.co
@@ -41,7 +41,7 @@ update.intl.miui.com
 update.miui.com
 us.find.api.micloud.xiaomi.net
 us.micardapi.micloud.xiaomi.net
-usernamehw.gallerycdn.vsassets.io
+#usernamehw.gallerycdn.vsassets.io
 wa.me
 web.facebook.com
 web.whatsapp.com
