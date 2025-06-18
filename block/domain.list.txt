@@ -8,7 +8,7 @@ datawrapper.dwcdn.net
 id.360buyimg.com
 pizzaseo.com
 prod-tp.sumo.mozit.cloud
-self.events.data.microsoft.com
+#self.events.data.microsoft.com
 slot-pg.kaki777.walesbonner.net
 slotindo.quest
 static.arc.io
